@@ -1,5 +1,8 @@
 {
   "rewrites": [
-    { "source": "/(.*)", "destination": "/insght-standalone.html" }
+    {
+      "source": "/(.*)",
+      "destination": "/insght-standalone.html"
+    }
   ]
 }
